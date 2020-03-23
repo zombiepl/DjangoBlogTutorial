@@ -1,2 +1,2 @@
 # DjangoBlogTutorial
-Django Blog
+Django Blog tutorial as base for online business apps
